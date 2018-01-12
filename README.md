@@ -1,3 +1,3 @@
 # S100UML
 S100 UML Models
-S100 utilizes Enterprise Architect to manage its repository of UML Models. The models for used for implementation of S100 and describe constructs contained within S-100.  The models in this repository have been baselined against S-100 Edition 3.0.0.
+The S-100 repository UML Models are in Enterprise Architect format. The models are used for implementation in the S-100 Standard and describe constructs contained within the standard.  The models in this repository are based on S-100 Edition 3.0.0.
